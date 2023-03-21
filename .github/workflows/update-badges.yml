@@ -10,5 +10,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: raulbeja/badge-readme@2.3.0
+        uses: pemtajo/badge-readme@main
 
