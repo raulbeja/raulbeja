@@ -40,6 +40,6 @@ I'm Patient and persistent, capable of multitasking and I work well within teams
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 
-## 🏅 Badges
+## 🏅 Badges [![Update Credly badges](https://github.com/raulbeja/raulbeja/actions/workflows/update-badges.yml/badge.svg)](https://github.com/raulbeja/raulbeja/actions/workflows/update-badges.yml)
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
