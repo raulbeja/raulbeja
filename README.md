@@ -31,10 +31,11 @@ I'm Patient and persistent, capable of multitasking and I work well within teams
 
 #### 🏗️ My common tools
 
-[![Vagrant](https://img.shields.io/badge/Vagrant-black?style=flat-square&logo=vagrant)](https://www.docker.com/)
+[![Vagrant](https://img.shields.io/badge/Vagrant-black?style=flat-square&logo=vagrant)](https://www.vagrantup.com/)
 [![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes)](https://www.kubernetes.io/)
-[![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform)](https://www.terraform.io/) 
+[![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform)](https://www.terraform.io/)
+[![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=Github)](https://www.github.com/) 
 
 #### 🌐 Programming languages
 
