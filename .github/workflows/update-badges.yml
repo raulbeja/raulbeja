@@ -2,8 +2,8 @@ name: Update Credly badges
 
 on:
   schedule:
-    # Runs at 0am UTC every day
     - cron: "*/1 * * * *"
+    
 jobs:
   update-readme:
     runs-on: ubuntu-latest
