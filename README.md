@@ -1,8 +1,10 @@
 ## Hi there 👋 I'm Raul Bejarano
 
-### Contact
+### Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-bejarano-gómez-75b8755a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/raulbeja/)
+
+[![Mail](https://img.shields.io/badge/Mail-EA4335?style=social&logo=gmail&logoColor=red)](mailto:raulbeja@gmail.com)
 
 ### Description
 ```
@@ -29,7 +31,7 @@ I'm Patient and persistent, capable of multitasking and I work well within teams
 [![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
 
 
-#### :hammer: My common tools
+#### :hammer_and_wrench: My common tools
 
 [![Vagrant](https://img.shields.io/badge/Vagrant-black?style=flat-square&logo=vagrant)](https://www.vagrantup.com/)
 [![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)](https://www.docker.com/)
@@ -38,6 +40,17 @@ I'm Patient and persistent, capable of multitasking and I work well within teams
 [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=Github)](https://www.github.com/) 
 [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![Zeal](https://img.shields.io/badge/Zeal%20DocSet-black?style=flat-square&logo=readthedocs)](https://zealdocs.org/)
+
+#### :gear: CI / CD
+
+[![GitHubActions](https://img.shields.io/badge/GitHub%20Actions-black?style=flat-square&logo=githubactions)](https://docs.github.com/es/actions)
+[![Jenkins](https://img.shields.io/badge/Jenkins-black?style=flat-square&logo=jenkins)](https://www.jenkins.io/)
+
+#### :chart_with_downwards_trend: Monitoring & Alert
+
+[![Prometheus](https://img.shields.io/badge/Prometheus-black?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![AlertManager](https://img.shields.io/badge/Alert%20Manager-black?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/docs/alerting/latest/alertmanager/)
+[![Slack](https://img.shields.io/badge/Slack-black?style=flat-square&logo=slack&logoColor=blue)](https://slack.com/intl/es-es/)
 
 #### :memo: Programming languages
 
@@ -54,7 +67,7 @@ I'm Patient and persistent, capable of multitasking and I work well within teams
 [![CodeIgniter](https://img.shields.io/badge/-Code%20Igniter-black?style=flat-square&logo=codeigniter&logoColor=blue)](https://codeigniter.com/)
 
 
-#### 🌐 Web & Application Servers
+#### :globe_with_meridians: Web & Application Servers
 
 [![Apache](https://img.shields.io/badge/-Apache%20HTTP-black?style=flat-square&logo=apache&logoColor=red)](https://httpd.apache.org/)
 [![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx&logoColor=green)](https://www.nginx.com/)
@@ -78,7 +91,7 @@ I'm Patient and persistent, capable of multitasking and I work well within teams
 [![InfluxDb](https://img.shields.io/badge/-InfluxDB-black?style=flat-square&logo=influxdb&logoColor=red)](https://www.influxdata.com/)
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis&logoColor=red)](https://redis.io/)
 
-#### :satellite: NetWorking
+#### :signal_strength: NetWorking
 
 [![Cisco](https://img.shields.io/badge/-Cisco%20CCNA-black?style=flat-square&logo=cisco&logoColor=white)](https://www.cisco.com/c/es_es/index.html)
 [![PaketTracer](https://img.shields.io/badge/-PacketTracer-black?style=flat-square&logo=cisco&logoColor=white)](https://www.netacad.com/es/courses/packet-tracer)
