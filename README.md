@@ -116,9 +116,10 @@ I'm Patient and persistent, capable of multitasking and I work well within teams
 ## 🏅 Badges
 [![Update Credly badges](https://github.com/raulbeja/raulbeja/actions/workflows/update-badges.yml/badge.svg)](https://github.com/raulbeja/raulbeja/actions/workflows/update-badges.yml)
 <!--START_SECTION:badges-->
-[![AWS Learning: Storage Core](https://images.credly.com/size/110x110/images/4c6a3c3a-e1dd-46f7-bcaf-cc69b817042e/image.png)](http://www.credly.com/badges/d1f251db-d8e2-474b-8a85-afcc81c59092 "AWS Learning: Storage Core")
-[![AWS Learning: File Storage](https://images.credly.com/size/110x110/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](http://www.credly.com/badges/355b66df-182b-4d8e-8d32-11434324b48f "AWS Learning: File Storage")
-[![AWS Learning: Block Storage](https://images.credly.com/size/110x110/images/bd6f25a2-b7ac-4b4c-ae4c-887864ba105e/image.png)](http://www.credly.com/badges/645116fd-a249-4cc8-abf5-f329ebe69894 "AWS Learning: Block Storage")
-[![AWS Learning: Object Storage](https://images.credly.com/size/110x110/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png)](http://www.credly.com/badges/39a05aa8-6f94-4c16-83d5-b88ce8b2626e "AWS Learning: Object Storage")
+[![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/0501372f-79a4-407f-a62b-207876922a3c "KCNA: Kubernetes and Cloud Native Associate")
+[![AWS Knowledge: Storage Core](https://images.credly.com/size/110x110/images/4c6a3c3a-e1dd-46f7-bcaf-cc69b817042e/image.png)](http://www.credly.com/badges/d1f251db-d8e2-474b-8a85-afcc81c59092 "AWS Knowledge: Storage Core")
+[![AWS Knowledge: File Storage](https://images.credly.com/size/110x110/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](http://www.credly.com/badges/355b66df-182b-4d8e-8d32-11434324b48f "AWS Knowledge: File Storage")
+[![AWS Knowledge: Block Storage](https://images.credly.com/size/110x110/images/bd6f25a2-b7ac-4b4c-ae4c-887864ba105e/image.png)](http://www.credly.com/badges/645116fd-a249-4cc8-abf5-f329ebe69894 "AWS Knowledge: Block Storage")
+[![AWS Knowledge: Object Storage](https://images.credly.com/size/110x110/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png)](http://www.credly.com/badges/39a05aa8-6f94-4c16-83d5-b88ce8b2626e "AWS Knowledge: Object Storage")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/23a83e32-6521-4278-bfd1-e8b72b3e1efa "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
