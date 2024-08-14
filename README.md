@@ -116,6 +116,7 @@ I'm Patient and persistent, capable of multitasking and I work well within teams
 ## 🏅 Badges
 [![Update Credly badges](https://github.com/raulbeja/raulbeja/actions/workflows/update-badges.yml/badge.svg)](https://github.com/raulbeja/raulbeja/actions/workflows/update-badges.yml)
 <!--START_SECTION:badges-->
+[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/14ae1f78-d936-442e-8996-afdd19dfb9a0 "HashiCorp Certified: Terraform Associate (003)")
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/0501372f-79a4-407f-a62b-207876922a3c "KCNA: Kubernetes and Cloud Native Associate")
 [![AWS Knowledge: Storage Core](https://images.credly.com/size/110x110/images/4c6a3c3a-e1dd-46f7-bcaf-cc69b817042e/image.png)](http://www.credly.com/badges/d1f251db-d8e2-474b-8a85-afcc81c59092 "AWS Knowledge: Storage Core")
 [![AWS Knowledge: File Storage](https://images.credly.com/size/110x110/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](http://www.credly.com/badges/355b66df-182b-4d8e-8d32-11434324b48f "AWS Knowledge: File Storage")
