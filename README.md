@@ -116,6 +116,7 @@ I'm Patient and persistent, capable of multitasking and I work well within teams
 ## 🏅 Badges
 [![Update Credly badges](https://github.com/raulbeja/raulbeja/actions/workflows/update-badges.yml/badge.svg)](https://github.com/raulbeja/raulbeja/actions/workflows/update-badges.yml)
 <!--START_SECTION:badges-->
+[![Certified IoT Architect](https://images.credly.com/size/110x110/images/fafa3d09-aca6-4a96-9411-2cae79decb4d/badge_ngit_iot.png)](http://www.credly.com/badges/49bb539f-2055-476a-a72b-452d6b326c93 "Certified IoT Architect")
 [![Introduction to IoT](https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](http://www.credly.com/badges/4c7ea089-afcb-4750-bb69-164d4f1d20f2 "Introduction to IoT")
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/14ae1f78-d936-442e-8996-afdd19dfb9a0 "HashiCorp Certified: Terraform Associate (003)")
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/0501372f-79a4-407f-a62b-207876922a3c "KCNA: Kubernetes and Cloud Native Associate")
